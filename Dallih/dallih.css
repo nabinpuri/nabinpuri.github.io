@@ -20,18 +20,13 @@ h4{
     border: 2px solid blue;
 }
 .leftPanel{
-    width:10%;
-    float:left;
+    width:90%;
     border:2px solid grey;
     border-radius: 5px;
 }
-.leftPanel div a{
-    display: block;
-}
 .content{
     background-image: url('img/tile.jpg');
-    width:70%;
-    float:left;
+    width:90%;
     border:2px solid red;
     margin-left: 10px;
     border-radius: 20px;
@@ -40,4 +35,7 @@ h4{
 }
 marquee{
     background-color: #ccffff;
+}
+a{
+    margin-left: 1%;
 }
