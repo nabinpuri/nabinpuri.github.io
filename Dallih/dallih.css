@@ -9,9 +9,9 @@ and open the template in the editor.
 */
 
 body{
-    background-color: #ffccff;
+    background-color:#ffccff;
 }
-h1{
+h4{
     font-family: sans-serif;
     
 }
@@ -29,6 +29,7 @@ h1{
     display: block;
 }
 .content{
+    background-image: url('img/tile.jpg');
     width:70%;
     float:left;
     border:2px solid red;
@@ -36,4 +37,7 @@ h1{
     border-radius: 20px;
     text-align: center;
     padding: 1% 1% 1% 1%;
+}
+marquee{
+    background-color: #ccffff;
 }
