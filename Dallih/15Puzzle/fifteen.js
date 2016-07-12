@@ -7,7 +7,7 @@
 (function(){
     var isShuffled=false;
     $(document).ready(function(){
-        alert("welcome");
+        //alert("welcome");
       init();
       $('.puzzlepiece').click(function(){
           
