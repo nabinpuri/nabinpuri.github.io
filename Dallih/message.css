@@ -4,12 +4,12 @@ To change this template file, choose Tools | Templates
 and open the template in the editor.
 */
 /* 
-    Created on : Jul 10, 2016, 2:10:13 PM
+    Created on : Jul 12, 2016, 9:23:26 PM
     Author     : Nabin
 */
+
 body{
-    background-color: grey;
-    height:100%;
+    background-image: url('img/wooden.jpg');
 }
 .title{
     text-align: center;
@@ -18,24 +18,21 @@ body{
     background-color:#ffcccc;
     border:2px solid Red;
 }
-.main{
-    border: 2px solid blueviolet;
-    height: 100%;
-}
-div img{
-    width:45%;
-    border: 2px solid Blue;
-    border-radius: 10px;
-}
 .back{
     float: left;
     margin-left: 1%;
 }
-.content{
+.message{
     text-align: center;
-    margin-top: 1%;
-    height: 40%;
+    border:2px solid blueviolet;
+    margin-left: 10%;
+    margin-right:10%;
+    margin-top: 2%;
+    font-size: 14pt;
+    border-radius: 20px;
 }
-.photos{
-    height: 90%;
+.bottom{
+    text-align: center;
+    border:2px solid black;
+    margin-top: 5px;
 }
