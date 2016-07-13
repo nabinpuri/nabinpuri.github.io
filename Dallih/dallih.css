@@ -10,6 +10,7 @@ and open the template in the editor.
 
 body{
     background-color:#ffccff;
+    height:100%;
 }
 h4{
     font-family: sans-serif;
