@@ -28,6 +28,7 @@ h4{
 .content{
     background-image: url('img/tile.jpg');
     width:90%;
+    height:400px;
     border:2px solid red;
     margin-left: 10px;
     border-radius: 20px;
